@@ -235,7 +235,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   text-align: center;
-  filter: blur(200px) grayscale(100%);
+ /* filter: blur(200px) grayscale(100%);*/
 
 }
 header .intro-text {
